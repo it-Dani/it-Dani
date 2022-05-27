@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **Face42547@gmail.com*
+- 📫 How to reach me **Danial.Ahmadi232003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
