@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **some templates**
 
-- 🌱 I’m currently learning **Js & Bootstrap**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Frontend**
 
